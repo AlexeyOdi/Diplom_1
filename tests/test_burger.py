@@ -1,6 +1,6 @@
-from burger import Burger
-from bun import Bun
-from ingredient import Ingredient
+from praktikum.burger import Burger
+from praktikum.bun import Bun
+from praktikum.ingredient import Ingredient
 
 class TestBurger:
     def test_set_bun(self):
